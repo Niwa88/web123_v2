@@ -1,5 +1,12 @@
 # web123_v2
 
+### Membuat pemisahan dashboard berdasarkan role.
+
+**Tujuan**
+- `User login` → diarahkan ke dashboard sesuai role
+- `admin` → dashboard_admin.php
+- `user` → dashboard_user.php
+
 **Struktur direktori**  
 
 <pre>
