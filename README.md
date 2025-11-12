@@ -2,7 +2,7 @@
 
 ### Membuat pemisahan dashboard berdasarkan role.
 
-**Tujuan**
+**Tujuan**:
 - `User login` → diarahkan ke dashboard sesuai role
 - `admin` → dashboard_admin.php
 - `user` → dashboard_user.php
